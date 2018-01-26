@@ -504,8 +504,8 @@ ranks - fleet
 	desc = "Insignia denoting the elusive rank of Warrant Officer. Too bad it's obviously fake."
 
 /obj/item/clothing/accessory/solgov/rank/fleet/officer/o2
-	name = "ranks (O-2 sub-lieutenant)"
-	desc = "Insignia denoting the rank of Sub-lieutenant."
+	name = "ranks (O-2 lieutenant junior grade)"
+	desc = "Insignia denoting the rank of Lieutenant Junior Grade."
 
 /obj/item/clothing/accessory/solgov/rank/fleet/officer/o3
 	name = "ranks (O-3 lieutenant)"
@@ -525,13 +525,13 @@ ranks - fleet
 	icon_state = "fleetrank_command"
 
 /obj/item/clothing/accessory/solgov/rank/fleet/flag
-	name = "ranks (O-7 commodore)"
-	desc = "Insignia denoting the rank of Commodore."
+	name = "ranks (O-7 rear admiral lower half)"
+	desc = "Insignia denoting the rank of Rear Admiral Lower Half."
 	icon_state = "fleetrank_command"
 
 /obj/item/clothing/accessory/solgov/rank/fleet/flag/o8
-	name = "ranks (O-8 rear admiral)"
-	desc = "Insignia denoting the rank of Rear Admiral."
+	name = "ranks (O-8 rear admiral upper half)"
+	desc = "Insignia denoting the rank of Rear Admiral Upper Half."
 
 /obj/item/clothing/accessory/solgov/rank/fleet/flag/o9
 	name = "ranks (O-9 vice admiral)"

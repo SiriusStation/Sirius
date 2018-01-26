@@ -350,8 +350,8 @@
 	sort_order = 11
 
 /datum/mil_rank/fleet/o2
-	name = "Sub-lieutenant"
-	name_short = "SLT"
+	name = "Lieutenant (junior grade)"
+	name_short = "LTJG"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/fleet/officer/o2, /obj/item/clothing/accessory/solgov/specialty/officer)
 	sort_order = 12
 
@@ -380,8 +380,8 @@
 	sort_order = 16
 
 /datum/mil_rank/fleet/o7
-	name = "Commodore"
-	name_short = "CDRE"
+	name = "Rear Admiral (lower half)"
+	name_short = "RDML"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/fleet/flag, /obj/item/clothing/accessory/solgov/specialty/officer)
 	sort_order = 17
 
@@ -577,7 +577,7 @@
 
 /datum/mil_rank/marine/o2
 	name = "First Lieutenant"
-	name_short = "1Lt"
+	name_short = "1stLt"
 	accessory = list(/obj/item/clothing/accessory/solgov/rank/marine/officer/o2)
 	sort_order = 12
 
